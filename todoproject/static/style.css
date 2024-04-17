@@ -1,0 +1,17 @@
+.banner{
+        background-color:teal;
+        width:200%;
+        height:50px;
+        margin-bottom:25px;
+}
+
+.banner-text{
+        left:50%;
+        position:absolute;
+
+        color:snow;
+}
+
+.card-body{
+            background-color:lightblue
+}
